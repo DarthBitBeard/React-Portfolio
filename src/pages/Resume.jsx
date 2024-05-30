@@ -5,7 +5,7 @@ function Resume() {
   return (
     <section className="resume">
       <h2>Resume</h2>
-      <a href="" download>Download Resume</a>
+      <a href="./src/assets/resume/John_Doe_Resume.pdf" download>Download Resume</a>
       <h3>Proficiencies</h3>
       <ul>
         <li>JavaScript</li>
