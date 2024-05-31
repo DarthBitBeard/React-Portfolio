@@ -25,6 +25,7 @@
       "gh-pages": "^4.0.0"
     },
     "devDependencies": {
+      "web-vitals": "^2.1.4",
       "@testing-library/jest-dom": "^5.16.0",
       "@testing-library/react": "^12.1.0",
       "@testing-library/user-event": "^13.5.0",
