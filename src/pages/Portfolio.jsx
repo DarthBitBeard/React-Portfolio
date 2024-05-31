@@ -5,34 +5,34 @@ import '../assets/styles/Portfolio.css';
 // Array of project objects to be displayed in the portfolio
 const projects = [
   {
-    title: '',
-    image: '',
-    deployedLink: '',
-    repoLink: ''
+    title: 'Project One',
+    image: '../assets/imgs/project1.png',
+    deployedLink: 'https://example.com/project1',
+    repoLink: 'https://github.com/username/project1'
   },
   {
-    title: '',
-    image: '',
-    deployedLink: '',
-    repoLink: ''
+    title: 'Project Two',
+    image: '../assets/imgs/project2.png',
+    deployedLink: 'https://example.com/project2',
+    repoLink: 'https://github.com/username/project2'
   },
   {
-    title: '',
-    image: '',
-    deployedLink: '',
-    repoLink: ''
+    title: 'Project Three',
+    image: '../assets/imgs/project3.png',
+    deployedLink: 'https://example.com/project3',
+    repoLink: 'https://github.com/username/project3'
   },
   {
-    title: '',
-    image: '',
-    deployedLink: '',
-    repoLink: ''
+    title: 'Project Four',
+    image: '../assets/imgs/project4.png',
+    deployedLink: 'https://example.com/project4',
+    repoLink: 'https://github.com/username/project4'
   },
   {
-    title: '',
-    image: '',
-    deployedLink: '',
-    repoLink: ''
+    title: 'Project Five',
+    image: '../assets/imgs/project5.png',
+    deployedLink: 'https://example.com/project5',
+    repoLink: 'https://github.com/username/project5'
   },
   // Add more projects as needed
 ];

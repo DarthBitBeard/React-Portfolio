@@ -1,25 +1,24 @@
 /* src/assets/styles/AboutMe.css */
 
 .about-me {
-    padding: 2rem;
-    text-align: center;
-    background-color: #f8f4e3;
-  }
-  
-  .about-me img {
-    border-radius: 50%;
-    max-width: 150px;
-    height: auto;
-    border: 2px solid #d4af37; /* Gold color */
-  }
-  
-  .about-me h2 {
-    color: #2c2c2c;
-  }
-  
-  .about-me p {
-    color: #2c2c2c;
-    max-width: 600px;
-    margin: 0 auto;
-  }
-  
+  padding: 2rem;
+  text-align: center;
+  background-color: #FFFFFF; /* Background Color: White */
+}
+
+.about-me img {
+  border-radius: 50%;
+  max-width: 150px;
+  height: auto;
+  border: 2px solid #5BC0BE; /* Accent Color: Aqua Blue */
+}
+
+.about-me h2 {
+  color: #0A1F44; /* Primary Color: Deep Navy Blue */
+}
+
+.about-me p {
+  color: #333333; /* Text Color: Dark Charcoal */
+  max-width: 600px;
+  margin: 0 auto;
+}

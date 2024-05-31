@@ -1,10 +1,11 @@
 /* src/assets/styles/App.css */
 
 .App {
-    text-align: center;
-  }
-  
-  main {
-    padding: 2rem;
-  }
-  
+  text-align: center;
+  background-color: #FFFFFF; /* Background Color: White */
+  color: #333333; /* Text Color: Dark Charcoal */
+}
+
+main {
+  padding: 2rem;
+}
